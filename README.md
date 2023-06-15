@@ -94,7 +94,7 @@ cp build/us_pc/sm64.us.apk /storage/emulated/0
 exit
 ```
 
-## una vez terminado si quieres a futuro actualizar sm64ex coop Android no borres termux oara que no se te complique y sigue estos pasos para actualizarlo
+## una vez terminado si quieres a futuro actualizar sm64ex coop Android no borres termux para que no se te complique y sigue estos pasos para actualizarlo
 
 # paso 1
 
