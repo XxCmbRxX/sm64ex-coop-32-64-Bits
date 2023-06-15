@@ -29,7 +29,7 @@ pkg remove libglvnd
 ```
 ## Con este comando podrás instalar las herramientas que necesitaremos para compilar nuestro juego[NECESITARAS 1GB] recomendable.
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
- si te hace una pregunta como en el video solo responde `Y` y das enter para continuar porqie este comando de abajo te hara una pregunta 
+ si te hace una pregunta como en el video solo responde `Y` y das enter para continuar porque este comando de abajo te hara una pregunta 
 
 ```bash
 pkg install git wget make python getconf zip apksigner clang binutils libglvnd-dev aapt which
