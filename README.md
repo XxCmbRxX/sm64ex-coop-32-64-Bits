@@ -1,3 +1,5 @@
+## Recuerda [ coop-build & Termux de F-droid ] es la misma app asi que solo instala 1 de las dos para seguir este proceso `la app de termux de play store no sirve`
+
 ```bash
 termux-change-repo
 ```
@@ -85,6 +87,46 @@ cp build/us_pc/sm64.us.apk /storage/emulated/0
 ```bash
 exit
 ```
+
+## una vez terminado si quieres a futuro actualizar sm64ex coop Android no borres termux oara que no se te complique y sigue estos pasos para actualizarlo
+
+# paso 1
+
+entrar a termux y escribir el siguiente comando
+
+```bash
+yes|pkg update && yes|pkg upgrade
+```
+
+Después pondras esto a continuación para entrar a la carpeta 
+
+```bash
+cd sm64ex-coop
+```
+
+```bash
+make clean
+```
+
+```bash
+git pull
+```
+
+```bash
+git submodule update --init --recursive
+```
+
+```bash
+make
+```
+
+# ahora esperaras y tendras de nuevo tu sm64ex coop Android actualizada solo deberas poner el siguiente comando para sacarla pero antes deberas borrar el antiguo para despues poner este comando
+
+```bash
+cp build/us_pc/sm64.us.apk /storage/emulated/0
+```
+
+
 
 YA NOMAS QUEDARA INSTALAR EL JUEGO Y LISTO A DISFRUTAR
 
