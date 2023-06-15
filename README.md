@@ -1,4 +1,10 @@
-## Recuerda [ coop-build & Termux de F-droid ] es la misma app asi que solo instala 1 de las dos para seguir este proceso `la app de termux de play store no sirve`
+## Recuerda instalar [ Termux de F-droid ] para seguir este proceso ` la app de termux de play store no sirve` 
+
+# aqui enlace de descarga para hacer el tutorial
+
+termux que sirve 
+
+https://f-droid.org/repo/com.termux_118.apk
 
 ```bash
 termux-change-repo
