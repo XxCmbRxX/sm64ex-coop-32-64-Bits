@@ -33,7 +33,7 @@ Con este comando podrás instalar las herramientas que necesitaremos para compil
 ```bash
 pkg install git wget make python getconf zip apksigner clang binutils libglvnd-dev aapt which
 ```
-Con este comando clonarss el repositorio de OWOKITTY para poder compilar el juego
+Con este comando clonaras el repositorio de OWOKITTY para poder compilar el juego
 
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 
