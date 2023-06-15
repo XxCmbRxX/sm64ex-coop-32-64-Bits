@@ -47,8 +47,7 @@ Tendrás que colocarlo en tu almacenamiento raíz memoria del dispositivo para p
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 
 ```bash
-cp /storage/emulated/0/baserom.us.z64
-sm64ex-coop/baserom.us.z64
+cp /storage/emulated/0/baserom.us.z64 sm64ex-coop/baserom.us.z64
 ```
 Aquí entraremos a la carpeta donde están los archivos para la creación del juego
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
