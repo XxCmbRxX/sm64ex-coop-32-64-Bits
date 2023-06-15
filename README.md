@@ -79,6 +79,11 @@ Enhorabuena ya para finalizar ejecuta este comando para sacar el sm64ex coop And
 cp build/us_pc/sm64.us.apk /storage/emulated/0
 ```
 
+## para salirnos de termux pondremos el siguiente comando 
+```bash
+exit
+```
+
 YA NOMAS QUEDARA INSTALAR EL JUEGO Y LISTO A DISFRUTAR
 
 
