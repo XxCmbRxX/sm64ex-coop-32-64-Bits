@@ -27,12 +27,14 @@ Con este comando eliminaremos está herramienta que no sirve para nada y nos oca
 ```bash
 pkg remove libglvnd
 ```
-Con este comando podrás instalar las herramientas que necesitaremos para compilar nuestro juego[NECESITARAS 1GB] recomendable.
+## Con este comando podrás instalar las herramientas que necesitaremos para compilar nuestro juego[NECESITARAS 1GB] recomendable.
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+ si te hace una pregunta como en el video solo responde `Y` y das enter para continuar porqie este comando de abajo te hara una pregunta 
 
 ```bash
 pkg install git wget make python getconf zip apksigner clang binutils libglvnd-dev aapt which
 ```
+
 Con este comando clonaras el repositorio de OWOKITTY para poder compilar el juego
 
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
