@@ -6,7 +6,7 @@ Descarga este termux que sirve dando click en el enlace
 
 https://f-droid.org/repo/com.termux_118.apk
 
-* Ejemplo - [COMPILACION ANDROID PARTE 1 ](https://youtu.be/qPx6AOsRWNw) cómo uso los comandos de Termux android
+* Ejemplo - [COMPILACION ANDROID PARTE 1 ](https://youtu.be/qPx6AOsRWNw)
 
 ```bash
 termux-change-repo
