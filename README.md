@@ -144,7 +144,7 @@ exit
 
 ## una vez terminado si quieres a futuro actualizar sm64ex coop Android no borres termux para que no se te complique y sigue estos pasos para actualizarlo
 
-# paso 1
+# PASOS PARA ACTUALIZACIONES DE SM64EX COOP ANDROID 
 
 entrar a termux y escribir el siguiente comando
 
