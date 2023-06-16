@@ -42,6 +42,15 @@ Aquí empieza la [PARTE -2]
 ```bash
 termux-setup-storage
 ```
+COMO SE MUESTRA A CONTINUACIÓN
+⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+
+![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119174708093526126/Screenshot_20230616-0057532.png)
+
+![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119174738246377542/Picsart_23-06-16_01-00-24-632.jpg)
+
+
+
 
 Con este comando eliminaremos está herramienta que no sirve para nada y nos ocaciona un gran error, para solucionarlo y podamos continuar tendrás que ejecutar este comando a continuación
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
