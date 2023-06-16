@@ -113,8 +113,8 @@ NOVENO COMANDO ⬇️
 ```bash
 git pull
 ```
-Con este comando actualizaremos archivos si es necesario de sm64ex coop
-Nos ayudará a cargar los archivos de coopnet y actualizar el juego [ SI ESQUE HAY ACTUALIZACIONES ] ponlo si o si
+Con este comando actualizaremos archivos de coopnet para evitar errores de compilación es necesario de sm64ex coop para jugarlo
+Nos ayudará a cargar los archivos de coopnet.
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 
 DÉCIMO COMANDO ⬇️
