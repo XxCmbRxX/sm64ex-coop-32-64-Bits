@@ -2,7 +2,7 @@
 
 # aqui enlace de descarga para hacer el tutorial
 
-termux que sirve 
+Descarga este termux que sirve dando click en el enlace 
 
 https://f-droid.org/repo/com.termux_118.apk
 
