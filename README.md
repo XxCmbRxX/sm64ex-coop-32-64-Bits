@@ -27,6 +27,7 @@ Mirrors by Tsinghua UniversityHosted on mirrors, tuna.tsinghua.edu.
 
 Después darás [ENTER] y continuas con el vídeo ejemplo [parte - 1]
 
+SEGUNDO COMANDO ⬇️
 ```bash
 yes|pkg update && yes|pkg upgrade
 ```
@@ -40,6 +41,7 @@ Aquí empieza la [PARTE -2]
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 ## cuando ejecutes este comando tendrás que darle permitir acceso
 
+TERCER COMANDO ⬇️
 ```bash
 termux-setup-storage
 ```
@@ -56,6 +58,7 @@ COMO SE MUESTRA A CONTINUACIÓN
 Con este comando eliminaremos está herramienta que no sirve para nada y nos ocaciona un gran error, para solucionarlo y podamos continuar tendrás que ejecutar este comando a continuación
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 
+CUARTO COMANDO ⬇️
 ```bash
 pkg remove libglvnd
 ```
@@ -66,7 +69,8 @@ Como se muestra a continuación y presionamos [ `ENTER` ]
 
 ## Con este comando podrás instalar las herramientas que necesitaremos para compilar nuestro juego[NECESITARAS 1GB] recomendable.
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
- 
+
+ QUINTO COMANDO ⬇️
 ```bash
 pkg install git wget make python getconf zip apksigner clang binutils libglvnd-dev aapt which
 ```
@@ -82,6 +86,7 @@ Con este comando clonaras el repositorio de OWOKITTY para poder compilar el jueg
 
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 
+SEXTO COMANDO ⬇️
 ```bash
 git clone https://github.com/robertkirkman/sm64ex-coop.git
 ```
@@ -91,17 +96,20 @@ Tendrás que colocarlo en tu almacenamiento raíz memoria del dispositivo para p
 
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 
+SÉPTIMO COMANDO ⬇️
 ```bash
 cp /storage/emulated/0/baserom.us.z64 sm64ex-coop/baserom.us.z64
 ```
 Aquí entraremos a la carpeta donde están los archivos para la creación del juego
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 
+OCTAVO COMANDO ⬇️
 ```bash
 cd sm64ex-coop
 ```
 ponemos este comando para actualizar si es necesario el juego y git 
 
+NOVENO COMANDO ⬇️
 ```bash
 git pull
 ```
@@ -109,22 +117,27 @@ Con este comando actualizaremos archivos si es necesario de sm64ex coop
 Nos ayudará a cargar los archivos de coopnet y actualizar el juego [ SI ESQUE HAY ACTUALIZACIONES ] ponlo si o si
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 
+DÉCIMO COMANDO ⬇️
 ```bash
 git submodule update --init --recursive
 ```
 Con este comando `make` compilaremos el juego para 32 bits y 64 bits OJO solo poner `make` para compilarlo de lo contrario no funcionará para dispositivos de 32 bits ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 
+COMANDO NÚMERO 11⬇️
 ```bash
 make
 ```
 
 Enhorabuena ya para finalizar ejecuta este comando para sacar el sm64ex coop Android a tu DISPOSITIVO MEMORIA INTERNA
 
+COMANDO 12⬇️
 ```bash
 cp build/us_pc/sm64.us.apk /storage/emulated/0
 ```
 
 ## para salirnos de termux pondremos el siguiente comando 
+
+COMANDO 13⬇️
 ```bash
 exit
 ```
