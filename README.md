@@ -29,6 +29,9 @@ Después darás [ENTER] y continuas con el vídeo ejemplo [parte - 1]
 ```bash
 yes|pkg update && yes|pkg upgrade
 ```
+asi como se muestra a continuación en pantalla tendrás que copiar y pegar en Termux el comando
+
+![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119171803810627654/Picsart_23-06-16_00-47-58-067.jpg)
 
 
 Aquí empieza la [PARTE -2]
