@@ -45,7 +45,7 @@ termux-setup-storage
 COMO SE MUESTRA A CONTINUACIÓN
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 
-![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119174708093526126/Screenshot_20230616-0057532.png)
+![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119176215811600404/Screenshot_20230616-0057533.png)
 
 ![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119174738246377542/Picsart_23-06-16_01-00-24-632.jpg)
 
