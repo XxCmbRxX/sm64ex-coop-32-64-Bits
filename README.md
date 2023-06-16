@@ -148,4 +148,9 @@ cp build/us_pc/sm64.us.apk /storage/emulated/0
 YA NOMAS QUEDARA INSTALAR EL JUEGO Y LISTO A DISFRUTAR
 
 
-Gracias a OWOKITTY por el Port a Android y XxCmbRxX Por traerles el tutorial en español
+Gracias a OWOKITTY por el Port a Android y XxCmbRxX Por traerles el tutorial en españolespañol
+
+## UNETE A NUESTRA COMUNIDAD ANDROID
+
+* [DISCORD](https://discord.gg/tmTdjhaB)
+
