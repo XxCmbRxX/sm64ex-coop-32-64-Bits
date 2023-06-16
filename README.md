@@ -8,7 +8,7 @@ https://f-droid.org/repo/com.termux_118.apk
 
 * Ejemplo - [COMPILACION ANDROID PARTE 1 ](https://youtu.be/qPx6AOsRWNw)
 
-## COMO OBTENER SM64EX-COOP ANDROID DESDE  0 👀
+## COMO OBTENER SM64EX-COOP ANDROID DESDE  CERO   👀
 
 PRIMER COMANDO ⬇️
 ```bash
