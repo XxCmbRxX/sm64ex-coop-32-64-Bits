@@ -74,7 +74,7 @@ pkg install git wget make python getconf zip apksigner clang binutils libglvnd-d
 ![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119181665663717406/Picsart_23-06-16_01-28-08-338.jpg)
 
 
-# si te hace una pregunta como en el video solo responde [ `Y` ]  para continuar enseguida de pulsar [ `ENTER` ] para confirmar 
+# si te hace una pregunta como en el video solo responde [ `Y` ]  para continuar enseguida pulsa [ `ENTER` ] para confirmar 
 ![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119184784543993886/Picsart_23-06-16_01-40-28-221.jpg)
 
 Con este comando clonaras el repositorio de OWOKITTY para poder compilar el juego
