@@ -11,6 +11,10 @@ https://f-droid.org/repo/com.termux_118.apk
 ```bash
 termux-change-repo
 ```
+te aparecera un recuadro como este a continuación, lo siguiente que tendrss que realizar es 
+pulsar [ `ENTER` ] Para continuar con el siguiente punto que sera seleccionar el servidor donde nos vamos a conectar.
+![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119162505613283459/207103623-82f57c13-c0c9-486b-b3bc-529ff13e4e3a.png)
+ 
 
 Con el primer comando tenernos que cambiar el repositorio de Termux al siguiente: 
 
