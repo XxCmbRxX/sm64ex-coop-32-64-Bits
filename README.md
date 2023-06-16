@@ -6,6 +6,8 @@ termux que sirve
 
 https://f-droid.org/repo/com.termux_118.apk
 
+* Ejemplo - [COMPILACION ANDROID PARTE 1 ](https://youtu.be/qPx6AOsRWNw) cómo uso los comandos de Termux android
+
 ```bash
 termux-change-repo
 ```
