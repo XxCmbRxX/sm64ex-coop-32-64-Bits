@@ -174,18 +174,18 @@ git submodule update --init --recursive
 make
 ```
 
-# ahora esperaras y tendras de nuevo tu sm64ex coop Android actualizada solo deberas poner el siguiente comando para sacarla pero antes deberas borrar el antiguo para despues poner este comando
+# ahora esperaras y tendras de nuevo tu sm64ex coop Android actualizado, solo deberas poner el siguiente comando para sacarlo de termux, pero antes deberas borrar el antiguo sm64ex coop que tengas para despues poner este comando
 
 ```bash
 cp build/us_pc/sm64.us.apk /storage/emulated/0
 ```
 
+`Y procedes a instalarlo nuevamente como la última vez`
+
+## Y LISTO A DISFRUTAR
 
 
-YA NOMAS QUEDARA INSTALAR EL JUEGO Y LISTO A DISFRUTAR
-
-
-Gracias a OWOKITTY por el Port a Android y XxCmbRxX Por traerles el tutorial en españolespañol
+Gracias a OWOKITTY por el Port a Android y XxCmbRxX Por traerles el tutorial en español
 
 ## UNETE A NUESTRA COMUNIDAD ANDROID
 
