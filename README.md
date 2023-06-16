@@ -69,7 +69,7 @@ Como se muestra a continuación y presionamos [ `ENTER` ]
 ```bash
 pkg install git wget make python getconf zip apksigner clang binutils libglvnd-dev aapt which
 ```
-# Ejemplo a continuación de como se tiene que visualizar una vez copiado pegado en Termux o escrito manualmente ⬇️⬇️⬇️⬇️⬇️⬇️
+# Ejemplo a continuación de como se tiene que visualizar una vez copiado y pegado en Termux o escrito manualmente ⬇️⬇️⬇️⬇️⬇️⬇️
 
 ![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119181665663717406/Picsart_23-06-16_01-28-08-338.jpg)
 
