@@ -58,6 +58,11 @@ Con este comando eliminaremos está herramienta que no sirve para nada y nos oca
 ```bash
 pkg remove libglvnd
 ```
+Como se muestra a continuación y presionamos [ `ENTER` ]
+
+![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119179813203226624/Picsart_23-06-16_01-20-34-392.jpg)
+
+
 ## Con este comando podrás instalar las herramientas que necesitaremos para compilar nuestro juego[NECESITARAS 1GB] recomendable.
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
  si te hace una pregunta como en el video solo responde `Y` y das enter para continuar porque este comando de abajo te hara una pregunta 
