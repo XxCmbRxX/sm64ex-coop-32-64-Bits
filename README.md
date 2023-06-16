@@ -24,6 +24,7 @@ yes|pkg update && yes|pkg upgrade
 
 
 Aquí empieza la [PARTE -2]
+* Ejemplo - [COMPILACION ANDROID PARTE 2 ](https://youtu.be/nJFD_KKfXpA) cómo uso los comandos de Termux android
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 ## cuando ejecutes este comando tendrás que darle permitir acceso
 
