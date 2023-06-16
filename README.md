@@ -65,11 +65,17 @@ Como se muestra a continuación y presionamos [ `ENTER` ]
 
 ## Con este comando podrás instalar las herramientas que necesitaremos para compilar nuestro juego[NECESITARAS 1GB] recomendable.
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
- si te hace una pregunta como en el video solo responde `Y` y das enter para continuar porque este comando de abajo te hara una pregunta 
-
+ 
 ```bash
 pkg install git wget make python getconf zip apksigner clang binutils libglvnd-dev aapt which
 ```
+# Ejemplo a continuación de como se tiene que visualizar una vez copiado pegado en Termux o escrito manualmente ⬇️⬇️⬇️⬇️⬇️⬇️
+
+![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119181665663717406/Picsart_23-06-16_01-28-08-338.jpg)
+
+
+si te hace una pregunta como en el video solo responde `Y` y das enter para continuar porque este comando de abajo te hara una pregunta 
+
 
 Con este comando clonaras el repositorio de OWOKITTY para poder compilar el juego
 
