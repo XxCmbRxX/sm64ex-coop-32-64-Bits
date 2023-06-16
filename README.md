@@ -22,7 +22,7 @@ pulsar [ `ENTER` ] Para continuar con el siguiente punto que sera seleccionar el
 
 Con el primer comando tenernos que cambiar el repositorio de Termux al siguiente: 
 
-Mirrors by Tsinghua UniversityHosted on mirrors, tuna.tsinghua.edu.
+`Mirrors by Tsinghua UniversityHosted on mirrors, tuna.tsinghua.edu.`
 
 ![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119164767609831465/207103874-9ab3eed7-c2c5-47da-89df-1b9e14cc95da.png)
 
