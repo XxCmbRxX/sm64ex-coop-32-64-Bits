@@ -86,7 +86,7 @@ git clone https://github.com/robertkirkman/sm64ex-coop.git
 ```
 
 Esto te ayudará a copiar el baserom que te muestro en el video de la parte 2
-Tendrás que colocarlo en tu almacenamiento raíz memoria del dispositivo para poder copiarlo de una manera correcta y no haya errores 
+Tendrás que colocarlo en tu almacenamiento raíz memoria del dispositivo para poder copiarlo de una manera correcta y no haya errores. Si aun no tienes tu `baserom.us.z64`, [Aqui la guía para obtener uno](https://github.com/sanni/cartreader/wiki/What-to-order):
 
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 
