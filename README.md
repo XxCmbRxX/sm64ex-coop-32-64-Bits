@@ -96,6 +96,13 @@ git clone https://github.com/robertkirkman/sm64ex-coop.git
 Esto te ayudará a copiar el baserom que te muestro en el video de la parte 2
 Tendrás que colocarlo en tu almacenamiento raíz memoria del dispositivo para poder copiarlo de una manera correcta y no haya errores. Si aun no tienes tu `baserom.us.z64`, [Aqui la guía para obtener uno](https://github.com/sanni/cartreader/wiki/What-to-order):
 
+# PERO ANTES DE PONER EL COMANDO QUE VERSS A CONTINUACIÓN TENDRSS QUE COLOCAR EN ESTA RUTA TU `baserom.us.z64` EN TU MEMORIA `storage/emulated/0` de tu dispositivo
+* EJEMPLO A CONTINUACIÓN 
+
+![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119411623724056699/Picsart_23-06-16_16-40-48-619.jpg)
+
+AHORA SI PROCEDEREMOS A PONER EL SÉPTIMO COMANDO EN NUESTRO TERMUX
+
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 
 SÉPTIMO COMANDO ⬇️
