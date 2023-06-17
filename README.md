@@ -17,13 +17,22 @@ __________________________________________________
 __________________________________________________
 
 # REQUISITOS:
-* Termux de [`f-droid`]
-* 1GB de almacenamiento disponible
-* Tu juego Original Versión USA sin modificaciones (Tiene que ser la auténtica)
-* Administrador de archivos Zarchiver enlace de descarga aqui abajo
+* 1- Termux de [`f-droid`]
+* 2- 1GB de almacenamiento disponible
+* 3- Tu juego Original Versión USA sin modificaciones (Tiene que ser la auténtica)
+* 4- Administrador de archivos Zarchiver enlace de descarga aqui abajo
 ______________________________________________
 [Click aqui para descargar ](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 ______________________________________________
+
+## NOTA:
+* Una vez que obtengas tu Juego Version USA sin modificaciones tendras que moverla y cambiarle el nombre como verás a continuación ⬇️
+
+__________________________________________________
+
+* EJEMPLO A CONTINUACIÓN 
+
+![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119411623724056699/Picsart_23-06-16_16-40-48-619.jpg)
 
 
 PRIMER COMANDO ⬇️
@@ -133,15 +142,6 @@ __________________________________________________
 git clone https://github.com/robertkirkman/sm64ex-coop.git
 ```
 __________________________________________________
-Esto te ayudará a copiar el baserom que te muestro en el video de la parte 2
-Tendrás que colocarlo en tu almacenamiento raíz memoria del dispositivo para poder copiarlo de una manera correcta y no haya errores. Si aun no tienes tu `baserom.us.z64`, [Aqui la guía para obtener uno](https://github.com/sanni/cartreader/wiki/What-to-order):
-
- PERO ANTES DE PONER EL COMANDO QUE VERÁS A CONTINUACIÓN TENDRÁS QUE COLOCAR EN ESTA RUTA TU `baserom.us.z64` EN TU MEMORIA `storage/emulated/0` de tu dispositivo
-__________________________________________________
-
-* EJEMPLO A CONTINUACIÓN 
-
-![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119411623724056699/Picsart_23-06-16_16-40-48-619.jpg)
 
 __________________________________________________
 AHORA SI PROCEDEREMOS A PONER EL SÉPTIMO COMANDO EN NUESTRO TERMUX
