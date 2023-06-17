@@ -25,11 +25,11 @@ pulsar [ `ENTER` ] Para continuar con el siguiente punto que sera seleccionar el
 
 ![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119162505613283459/207103623-82f57c13-c0c9-486b-b3bc-529ff13e4e3a.png)
  
-
+__________________________________________________
 Con el primer comando tenernos que cambiar el repositorio de Termux al siguiente: 
 
 `Mirrors by Tsinghua UniversityHosted on mirrors, tuna.tsinghua.edu.`
-
+__________________________________________________
 ![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119164767609831465/207103874-9ab3eed7-c2c5-47da-89df-1b9e14cc95da.png)
 
 
