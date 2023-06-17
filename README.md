@@ -20,11 +20,12 @@ __________________________________________________
 * 1- Termux de [`f-droid`]
 * 2- 1GB de almacenamiento disponible
 * 3- Tu juego Original Versión USA sin modificaciones (Tiene que ser la auténtica)
-* 4- Administrador de archivos Zarchiver enlace de descarga aqui abajo
+* 4- WI-FI en todo momento (Para las descargas de herramientas y repositorio)
+* 5- Administrador de archivos Zarchiver enlace de descarga aqui abajo
 ______________________________________________
 [Click aqui para descargar ](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 ______________________________________________
-
+`CUANDO EJECUTES UN COMANDO Y TERMUX ESTE REALIZANDO UN PROCESO NO DEBERÁS SALIRTE DE TERMUX, ASEGURATE DE TENER LA SUFICIENTE BATERIA PARA QUE NO SE TE APAGUE EN EL PROCESO Y TAMPOCO DEJES QUE EL TELÉFONO BLOQUEE LA PANTALLA, ESPERA A QUE TERMINE LOS PROCESO PARA PODER CONTINUAR CON LAS INSTRUCCIONES`
 # NOTA:
 * Una vez que obtengas tu Juego Version USA sin modificaciones tendras que moverla y cambiarle el nombre como verás a continuación ⬇️
 
