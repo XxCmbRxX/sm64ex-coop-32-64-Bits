@@ -40,6 +40,10 @@ asi como se muestra a continuación en pantalla tendrás que copiar y pegar en T
 
 Aquí empieza la [PARTE -2]
 * Ejemplo - [COMPILACION ANDROID PARTE 2 ](https://youtu.be/nJFD_KKfXpA) cómo uso los comandos de Termux android
+Video Tutorial:
+
+[![link](https://cdn.discordapp.com/attachments/1118222325054181457/1119418201500024832/Picsart_23-06-16_17-06-20-319.jpg)](https://youtu.be/nJFD_KKfXpA "[TUTORIAL] Compilar (descargar) La nueva actualización para sm64ex-coop Android ")
+
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 ## cuando ejecutes este comando tendrás que darle permitir acceso
 
@@ -53,11 +57,6 @@ COMO SE MUESTRA A CONTINUACIÓN
 ![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119176215811600404/Screenshot_20230616-0057533.png)
 
 ![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119174738246377542/Picsart_23-06-16_01-00-24-632.jpg)
-
-
-Video Tutorial:
-
-[![link](https://cdn.discordapp.com/attachments/1118222325054181457/1119418201500024832/Picsart_23-06-16_17-06-20-319.jpg)](https://youtu.be/nJFD_KKfXpA "[TUTORIAL] Compilar (descargar) La nueva actualización para sm64ex-coop Android ")
 
 
 
