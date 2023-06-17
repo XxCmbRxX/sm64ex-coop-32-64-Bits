@@ -12,7 +12,9 @@ ______________________________________________
 * Video Tutorial dando click en la siguiente imagen.
 [![link](https://cdn.discordapp.com/attachments/1118222325054181457/1119422417941569557/Picsart_23-06-16_17-24-30-978.png)](https://youtu.be/qPx6AOsRWNw "[TUTORIAL] Compilar (descargar) La nueva actualización para sm64ex-coop Android Parte 1 ")
 
+__________________________________________________
 ## COMO OBTENER SM64EX-COOP ANDROID DESDE  CERO   👀
+__________________________________________________
 
 PRIMER COMANDO ⬇️
 ```bash
