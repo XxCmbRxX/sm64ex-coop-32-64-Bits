@@ -25,10 +25,8 @@ ______________________________________________
 [Click aqui para descargar ](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 ______________________________________________
 
-## NOTA:
+# NOTA:
 * Una vez que obtengas tu Juego Version USA sin modificaciones tendras que moverla y cambiarle el nombre como verás a continuación ⬇️
-
-__________________________________________________
 
 ## EJEMPLO A CONTINUACIÓN
 * TENDRÁS QUE COLOCAR EN ESTA RUTA TU `baserom.us.z64` EN TU MEMORIA `storage/emulated/0` de tu dispositivo.
