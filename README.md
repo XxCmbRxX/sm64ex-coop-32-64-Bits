@@ -55,6 +55,10 @@ COMO SE MUESTRA A CONTINUACIÓN
 ![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119174738246377542/Picsart_23-06-16_01-00-24-632.jpg)
 
 
+Video Tutorial:
+
+[![link](https://cdn.discordapp.com/attachments/1118222325054181457/1119418201500024832/Picsart_23-06-16_17-06-20-319.jpg)](https://youtu.be/nJFD_KKfXpA "[TUTORIAL] Compilar (descargar) La nueva actualización para sm64ex-coop Android ")
+
 
 
 Con este comando eliminaremos está herramienta que no sirve para nada y nos ocaciona un gran error, para solucionarlo y podamos continuar tendrás que ejecutar este comando a continuación
