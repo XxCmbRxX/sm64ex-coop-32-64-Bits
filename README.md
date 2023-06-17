@@ -29,7 +29,7 @@ ______________________________________________
 # NOTA:
 * Una vez que obtengas tu Juego Version USA sin modificaciones tendras que moverla y cambiarle el nombre como verás a continuación ⬇️
 
-## EJEMPLO A CONTINUACIÓN
+## EJEMPLO
 * TENDRÁS QUE COLOCAR EN ESTA RUTA TU `baserom.us.z64` EN TU MEMORIA `storage/emulated/0` de tu dispositivo.
 
 ![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119411623724056699/Picsart_23-06-16_16-40-48-619.jpg)
