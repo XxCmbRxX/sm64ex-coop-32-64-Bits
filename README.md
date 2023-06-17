@@ -21,7 +21,10 @@ __________________________________________________
 * 1GB de almacenamiento disponible
 * Tu juego Original Versión USA sin modificaciones (Tiene que ser la auténtica)
 * Administrador de archivos Zarchiver enlace de descarga aqui abajo
+
 [Click aqui para descargar ](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
+
+
 PRIMER COMANDO ⬇️
 ```bash
 termux-change-repo
