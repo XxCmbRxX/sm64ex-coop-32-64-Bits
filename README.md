@@ -144,7 +144,7 @@ git clone https://github.com/robertkirkman/sm64ex-coop.git
 __________________________________________________
 
 __________________________________________________
-AHORA SI PROCEDEREMOS A PONER EL SÉPTIMO COMANDO EN NUESTRO TERMUX
+PROCEDEREMOS A PONER EL SÉPTIMO COMANDO EN NUESTRO TERMUX
 
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 
@@ -155,6 +155,15 @@ __________________________________________________
 cp /storage/emulated/0/baserom.us.z64 sm64ex-coop/baserom.us.z64
 ```
 __________________________________________________
+
+# RECORDATORIO
+## Si no tienes tu juego original versión USA renombrado a `baserom.us.z64` y puesto en la siguiente ruta, tendras un error y no te va a funcionar el [`SÉPTIMO COMANDO`] 
+
+![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119411623724056699/Picsart_23-06-16_16-40-48-619.jpg)
+
+
+______________________________________________
+
 Aquí entraremos a la carpeta donde están los archivos para la creación del juego
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 
