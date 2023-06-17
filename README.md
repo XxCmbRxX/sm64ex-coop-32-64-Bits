@@ -5,6 +5,7 @@
 Descarga este termux dando click en el enlace ⬇️
 
 https://f-droid.org/repo/com.termux_118.apk
+______________________________________________
 
 * Ejemplo - [COMPILACION ANDROID PARTE 1 ](https://youtu.be/qPx6AOsRWNw)
 
