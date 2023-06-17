@@ -16,7 +16,7 @@ __________________________________________________
 ## COMO OBTENER SM64EX-COOP ANDROID DESDE  CERO   👀
 __________________________________________________
 
-* REQUISITOS:
+# REQUISITOS:
 * Termux de [`f-droid`]
 * 1GB de almacenamiento disponible
 * Tu juego Original Versión USA sin modificaciones (Tiene que ser la auténtica)
