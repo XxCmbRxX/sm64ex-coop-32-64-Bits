@@ -2,9 +2,11 @@
 
 # aqui enlace de descarga para hacer el tutorial
 
-Descarga este termux dando click en el enlace ⬇️
+Descarga este TERMUX dando click en el enlace de abajo ⬇️
 
 https://f-droid.org/repo/com.termux_118.apk
+______________________________________________
+## [`Si ya habias descargado termux anteriormente y habias tenido errores, borralo e instalalo de nuevo desde el enlace de aqui arriba 👆👆 y vuelve a instalarlo y haz el proceso desde cero`]
 ______________________________________________
 
 * Ejemplo - [COMPILACION ANDROID PARTE 1 ](https://youtu.be/qPx6AOsRWNw)
