@@ -292,3 +292,8 @@ ___________________________________________________
 * si no sabes como poner un DynOs Pack te recomiendo este video de aqui abajo
 EJEMPLO
 
+### Toca en la parte de abajo donde dice video ejemplo para ir s ver el tutorial de vomo poner Dynos en tu dispositivo android
+
+[Video Ejemplo ](https://youtu.be/0CllPvIEYbM)
+
+
