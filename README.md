@@ -286,7 +286,7 @@ __________________________________________________
 ![image](https://cdn.discordapp.com/attachments/1118222325054181457/1124769275098452040/56230171_1.jpg)
 
 ___________________________________________________
-[Click aqui para descargar ](https://github.com/Render96/ModelPack/releases/download/3.2/Render96_DynOs_v3.2.7z)
+[Download ](https://github.com/Render96/ModelPack/releases/download/3.2/Render96_DynOs_v3.2.7z)
 ___________________________________________________
 
 * si no sabes como poner un DynOs Pack te recomiendo este video de aqui abajo
