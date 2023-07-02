@@ -247,7 +247,7 @@ cd sm64ex-coop
 ```
 
 ```bash
-make clean
+make distclean
 ```
 
 ```bash
