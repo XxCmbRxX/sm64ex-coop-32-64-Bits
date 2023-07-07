@@ -25,7 +25,7 @@ __________________________________________________
 # REQUISITOS:
 * 1- Termux de [`f-droid`]
 * 2- 1GB de almacenamiento disponible
-* 3- Tu juego Original Versión USA sin modificaciones (Tiene que ser la auténtica)
+* 3- Tu juego Original Versión USA sin modificaciones (Tiene que ser la auténtica y la que termina en ` .z64 ` la que termina en ` .n64 ` no te servira)
 * 4- WI-FI en todo momento (Para las descargas de herramientas y repositorio)
 * 5- Administrador de archivos Zarchiver enlace de descarga aqui abajo
 ______________________________________________
