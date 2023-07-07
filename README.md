@@ -36,7 +36,7 @@ ______________________________________________
 * Una vez que obtengas tu Juego Version USA sin modificaciones tendras que moverla y cambiarle el nombre como verás a continuación ⬇️
 
 ## EJEMPLO
-* TENDRÁS QUE COLOCAR EN ESTA RUTA TU `baserom.us.z64` EN TU MEMORIA `storage/emulated/0` de tu dispositivo.
+* TENDRÁS QUE COLOCAR EN ESTA RUTA TU `baserom.us.z64` EN TU MEMORIA `storage/emulated/0` de tu dispositivo. RECUERDA SOLO SE CAMBIA LA PRIMERA PARTE... el formato no se debe cambiar asi que ` no intentes cambiar tu room si termina en .n64 a .z64 ` se cambia el nombre antes del .z64 ya que si intentas cambiarlo de .n64 a .z64 romperas el room y no funcionara el proceso 
 
 ![image](https://cdn.discordapp.com/attachments/1118222325054181457/1119411623724056699/Picsart_23-06-16_16-40-48-619.jpg)
 
