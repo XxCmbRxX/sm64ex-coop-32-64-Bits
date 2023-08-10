@@ -276,24 +276,3 @@ __________________________________________________
 
 Gracias a OWOKITTY por el Port a Android y XxCmbRxX Por traerles el tutorial en español
 
-## UNETE A NUESTRA COMUNIDAD ANDROID
-__________________________________________________
-
-* [DISCORD](https://discord.gg/tmTdjhaB)
-
-# MODEL PACK RENDER96 DynOs
-
-![image](https://cdn.discordapp.com/attachments/1118222325054181457/1124769275098452040/56230171_1.jpg)
-
-___________________________________________________
-[Download ](https://github.com/Render96/ModelPack/releases/download/3.2/Render96_DynOs_v3.2.7z)
-___________________________________________________
-
-* si no sabes como poner un DynOs Pack te recomiendo este video de aqui abajo
-EJEMPLO
-
-### Toca en la parte de abajo donde dice video ejemplo para ir s ver el tutorial de como poner Dynos en tu dispositivo android
-
-[Video Ejemplo ](https://youtu.be/0CllPvIEYbM)
-
-* Credits: ` DorfDork `
