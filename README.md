@@ -1,5 +1,6 @@
 ## Recuerda instalar [ Termux de F-droid ] para seguir este proceso ` la app de termux de play store no sirve` 
 
+https://github.com/XxCmbRxX/Test/assets/125222572/4ff18d5d-04a9-45c0-8833-43e0f7152f43
 
 https://github.com/XxCmbRxX/sm64ex-coop-32-64-Bits/assets/125222572/5d498f00-fb8f-4096-a1b9-62c756419208
 
